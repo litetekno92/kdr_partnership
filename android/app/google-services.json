@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416280710555",
+    "firebase_url": "https://partnership-app-cf626.firebaseio.com",
+    "project_id": "partnership-app-cf626",
+    "storage_bucket": "partnership-app-cf626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416280710555:android:bed1bb0008fae97a",
+        "android_client_info": {
+          "package_name": "com.example.kdr_partnership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416280710555-kl53eqjuqplac596lnos9veriet63e11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeSK25kMMDmoCYjK_beBiMIk0f_AULR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416280710555-kl53eqjuqplac596lnos9veriet63e11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
